@@ -1,11 +1,11 @@
 {
   "Vanguard Total World Stock ETF": {
     "code": "VT US EQUITY",
-    "weight": 27.22
+    "weight": 27.24
   },
   "State Street SPDR Portfolio MSCI Global Stock Market ETF": {
     "code": "SPGM US EQUITY",
-    "weight": 27.07
+    "weight": 27.1
   },
   "iShares MSCI ACWI ETF": {
     "code": "ACWI US EQUITY",
@@ -13,10 +13,10 @@
   },
   "iShares MSCI World ETF": {
     "code": "URTH US EQUITY",
-    "weight": 18.28
+    "weight": 18.27
   },
   "현금": {
     "code": "",
-    "weight": 0.65
+    "weight": 0.61
   }
 }
