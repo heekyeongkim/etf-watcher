@@ -5,7 +5,7 @@
   },
   "State Street SPDR Portfolio MSCI Global Stock Market ETF": {
     "code": "SPGM US EQUITY",
-    "weight": 27.12
+    "weight": 27.11
   },
   "iShares MSCI ACWI ETF": {
     "code": "ACWI US EQUITY",
@@ -17,6 +17,6 @@
   },
   "현금": {
     "code": "",
-    "weight": 0.6
+    "weight": 0.59
   }
 }
