@@ -13,10 +13,10 @@
   },
   "iShares MSCI World ETF": {
     "code": "URTH US EQUITY",
-    "weight": 18.03
+    "weight": 18.04
   },
   "현금": {
     "code": "",
-    "weight": 0.59
+    "weight": 0.58
   }
 }
