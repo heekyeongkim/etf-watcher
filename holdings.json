@@ -9,11 +9,11 @@
   },
   "State Street SPDR Portfolio MSCI Global Stock Market ETF": {
     "code": "SPGM US EQUITY",
-    "weight": 27.43
+    "weight": 27.44
   },
   "iShares MSCI World ETF": {
     "code": "URTH US EQUITY",
-    "weight": 16.88
+    "weight": 16.87
   },
   "현금": {
     "code": "",
