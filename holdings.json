@@ -1,7 +1,7 @@
 {
   "State Street SPDR Portfolio MSCI Global Stock Market ETF": {
     "code": "SPGM US EQUITY",
-    "weight": 28.41
+    "weight": 28.44
   },
   "Vanguard Total World Stock ETF": {
     "code": "VT US EQUITY",
@@ -9,7 +9,7 @@
   },
   "iShares MSCI ACWI ETF": {
     "code": "ACWI US EQUITY",
-    "weight": 27.77
+    "weight": 27.75
   },
   "iShares MSCI World ETF": {
     "code": "URTH US EQUITY",
